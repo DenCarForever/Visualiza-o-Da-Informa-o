@@ -1,4 +1,11 @@
 # Visualização da Informação
+#Nome:  Denilson Silva Nascimento Martins
+RGM: 36676136
+Instituição: Cruzeiro Do Sul VIrtual - UNIFRAN
+Curso: Ciência da Computação - EAD
+Tutor(a): Cayro Macedo Mendes
+Prof.(a): Ismar Frango
+
 ## Projeto da disciplina
 
 O projeto da disciplina consiste em apresentar uma implementação, em Python, da visualização de informações presentes em um dataset usando ao menos três técnicas estudadas na disciplina.
