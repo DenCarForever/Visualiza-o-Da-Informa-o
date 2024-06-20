@@ -2,8 +2,8 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 #Importando dataset base
-file_url = ''
-file_url = ''
+file_url = 'https://github.com/DenCarForever/Visualizacao-Da-Informacao/blob/main/dataset.csv'
+file_url = 'https://github.com/DenCarForever/Visualizacao-Da-Informacao/blob/main/dataset.csv'
 dataset = pd.read_csv(file_url)
 dataset = pd.DataFrame(dataset)
 #Tratando dataset e selecionando os dados que serão usados
