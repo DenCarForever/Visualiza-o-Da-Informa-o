@@ -1,10 +1,17 @@
 # Visualização da Informação
-#Nome:  Denilson Silva Nascimento Martins
-RGM: 36676136
-Instituição: Cruzeiro Do Sul VIrtual - UNIFRAN
-Curso: Ciência da Computação - EAD
-Tutor(a): Cayro Macedo Mendes
-Prof.(a): Ismar Frango
+
+ Nome:  Denilson Silva Nascimento Martins.
+
+ RGM: 36676136.
+ 
+ Instituição: Cruzeiro Do Sul VIrtual - UNIFRAN.
+ 
+ Curso: Ciência da Computação - EAD.
+ 
+ Tutor(a): Cayro Macedo Mendes.
+ 
+ Prof.(a): Ismar Frango.
+ 
 
 ## Projeto da disciplina
 
